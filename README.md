@@ -10,9 +10,9 @@
 
 | # | Name | Student ID | Algorithm(s) Implemented |
 |---|------|------------|--------------------------|
-| 1 | **[STUDENT_1_NAME]** | [ID] | Random Forest Classifier + EDA & Feature Engineering |
-| 2 | **[STUDENT_2_NAME]** | [ID] | Gradient Boosting Classifier + Monte Carlo Simulation |
-| 3 | **[STUDENT_3_NAME]** | [ID] | XGBoost Classifier + Knockout Stage Simulator |
+| 1 | **Lun Hengda** | [CSE2023210008] | Random Forest Classifier + EDA & Feature Engineering |
+| 2 | **Thyna Oudom** | [ID] | Gradient Boosting Classifier + Monte Carlo Simulation |
+| 3 | **Nak July** | [ID] | XGBoost Classifier + Knockout Stage Simulator |
 
 > **Shared work:** Data loading & preprocessing, final ensemble model, visualizations, presentation.
 
